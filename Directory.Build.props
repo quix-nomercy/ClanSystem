@@ -1,0 +1,10 @@
+<Project>
+  <PropertyGroup>
+    <Version>1.0.0</Version>
+    <Product>ClanSystem</Product>
+    <Company>ClanSystem</Company>
+    <Authors>quix</Authors>
+    <Copyright>Copyright (c) 2026 quix</Copyright>
+    <NeutralLanguage>en-US</NeutralLanguage>
+  </PropertyGroup>
+</Project>
