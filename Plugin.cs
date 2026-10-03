@@ -18,8 +18,6 @@ namespace ClanSystem
 
         public override Version Version => new Version(1, 0, 0);
 
-        public override Version RequiredExiledVersion => new Version(9, 14, 2);
-
         public ClanStore Store { get; private set; }
 
         public PendingInvites Invites { get; private set; }
